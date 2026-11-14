@@ -1,0 +1,10 @@
+
+{
+  "name": "PHP MySQL phpMyAdmin",
+  "image": "mcr.microsoft.com/devcontainers/base:debian-12",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "forwardPorts": [8000, 8080]
+}
+
